@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 ### For creating schema without DB IDE
 
 # Follow The GUIDE Below
-## [Guide](Guide.ipynb)
+### [Guide](Guide.ipynb)
 
 # INDEX
 - Data Modeling
