@@ -1,3 +1,5 @@
+# INSTALLATIONS
+
 ```bash
 # install ipython-sql
 $ pip install ipython-sql
@@ -10,22 +12,20 @@ $ pip install PyMySQL
 
 # install PostgreSQL
 $ pip install psycopg2
+
+# caching_sha2_password
+$ pip install cryptography
 ```
 
-or
+
+OR
 
 ```bash
 $ pip install -r requirements.txt
 ```
 
-connect to the database using the following codes:
-```python
-# SQL Server
-%sql mssql+pyodbc://user_name:password@host:port_number/db
+# CREATE Schema in IntelliJ IDEA
+### For creating schema without DB IDE
 
-# PostgreSQL
-%sql postgresql://user_name:password@host:port_number/db
-            
-# MySQL
-%sql mysql://user_name:password@host:port_number/db
-```
+# Follow The GUIDE Below
+### [GUIDE](Guide.ipynb)
