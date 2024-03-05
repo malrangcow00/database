@@ -27,7 +27,8 @@ $ pip install -r requirements.txt
 # CREATE Schema in IntelliJ IDEA
 ### For creating schema without DB IDE
 
-# Follow The [GUIDE](Guide.ipynb) Before Learning
+# Follow The GUIDE Below
+# [Guide](Guide.ipynb)
 
 # INDEX
 - Data Modeling
