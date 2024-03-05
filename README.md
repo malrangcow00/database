@@ -55,3 +55,5 @@ Back to the `DataBase Properties(IntelliJ IDEA)` and enter User info and new Dat
 - SQL Queries
   - [DCL](/SQL-Queries/DCL.ipynb)
   - [DDL](/SQL-Queries/DDL.ipynb)
+  - [DML](/SQL-Queries/DML.ipynb)
+  - [TCL](/SQL-Queries/TCL.ipynb)
