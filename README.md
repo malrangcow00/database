@@ -37,4 +37,4 @@ $ pip install -r requirements.txt
 
 - SQL Queries
   - [DCL](/SQL-Queries/DCL.ipynb)
-  - [DDL](DDL.ipynb)
+  - [DDL](/SQL-Queries/DDL.ipynb)
