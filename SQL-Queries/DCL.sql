@@ -26,11 +26,6 @@
     # 사용자에게 부여된 권한을 회수하는 명령어
     REVOKE authority FROM username;
 
-    # Authorities
-    # 권한 목록
-    # CONNECT : 데이터베이스에 접속할 수 있는 권한
-    # RESOURCE : 테이블, 시퀀스, 프로시저 등을 생성할 수 있는 권한
-    # DBA : 데이터베이스 관리자 권한
 
 
 
