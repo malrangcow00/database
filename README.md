@@ -49,7 +49,7 @@ Back to the `DataBase Properties(IntelliJ IDEA)` and enter User info and new Dat
 
 # INDEX
 - Data Modeling
-  - [Data Model](/Data-Modeling/Data-Model.ipynb)
+  - [Data Model](/Data-Modeling/Data-Model.md)
   - [Normalization](/Data-Modeling/Normalization.ipynb)
   
 - SQL Queries
