@@ -84,16 +84,16 @@
         <td>ORDER BY 절 (변경 없음)</td>
     </tr>
     <tr>
-        <td>JOIN</td>
-        <td>JOIN (변경 없음)</td>
+        <td>조인</td>
+        <td>조인 (변경 없음)</td>
     </tr>
     <tr>
         <td></td>
-        <td>STANDARD JOIN (목차 이동)</td>
+        <td>표준 조인 (목차 이동)</td>
     </tr>
     <tr>
         <td rowspan="8">SQL 활용</td>
-        <td>STANDARD JOIN</td>
+        <td>표준 조인</td>
         <td>서브 쿼리</td>
     </tr>
     <tr>
