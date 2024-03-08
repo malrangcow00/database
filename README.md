@@ -57,3 +57,4 @@ Back to the `DataBase Properties(IntelliJ IDEA)` and enter User info and new Dat
   - [DDL](/SQL-Queries/DDL.ipynb)
   - [DML](/SQL-Queries/DML.ipynb)
   - [TCL](/SQL-Queries/TCL.ipynb)
+  - [PIVOT](/SQL-Queries/PIVOT.ipynb)
