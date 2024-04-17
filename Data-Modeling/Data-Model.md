@@ -22,8 +22,17 @@
 
 ### 모델링의 세 가지 단계
 1. 개념적 데이터 모델링(Conceptual Data Modeling)
+    - ERD
 2. 논리적 데이터 모델링(Logical Data Modeling)
+    - 정규화 (Joining 연산)
+    - Transaction Interface
 3. 물리적 데이터 모델링(Physical Data Modeling)
+    - 성능을 고려한 설계
+    - Indexing
+    - Partitioning
+    - Clustering
+    - View, Trigger, Procedure
+    - 반정규화(비정규화, 역정규화) (Joining 연산으로 인한 성능 저하 방지, 데이터베이스의 정규화 이후, 성능향상과 개발 편의성 등 정규화 기법에 위배되는 수행 기법)
 
 ### 식별자의 4가지 분류
 
